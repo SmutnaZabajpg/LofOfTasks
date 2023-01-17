@@ -1,0 +1,16 @@
+C:\Users\Uczen\source\repos\TestCollection\bin\Debug\net5.0\TestCollection.exe
+C:\Users\Uczen\source\repos\TestCollection\bin\Debug\net5.0\TestCollection.deps.json
+C:\Users\Uczen\source\repos\TestCollection\bin\Debug\net5.0\TestCollection.runtimeconfig.json
+C:\Users\Uczen\source\repos\TestCollection\bin\Debug\net5.0\TestCollection.runtimeconfig.dev.json
+C:\Users\Uczen\source\repos\TestCollection\bin\Debug\net5.0\TestCollection.dll
+C:\Users\Uczen\source\repos\TestCollection\bin\Debug\net5.0\ref\TestCollection.dll
+C:\Users\Uczen\source\repos\TestCollection\bin\Debug\net5.0\TestCollection.pdb
+C:\Users\Uczen\source\repos\TestCollection\obj\Debug\net5.0\TestCollection.csproj.AssemblyReference.cache
+C:\Users\Uczen\source\repos\TestCollection\obj\Debug\net5.0\TestCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczen\source\repos\TestCollection\obj\Debug\net5.0\TestCollection.AssemblyInfoInputs.cache
+C:\Users\Uczen\source\repos\TestCollection\obj\Debug\net5.0\TestCollection.AssemblyInfo.cs
+C:\Users\Uczen\source\repos\TestCollection\obj\Debug\net5.0\TestCollection.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\source\repos\TestCollection\obj\Debug\net5.0\TestCollection.dll
+C:\Users\Uczen\source\repos\TestCollection\obj\Debug\net5.0\ref\TestCollection.dll
+C:\Users\Uczen\source\repos\TestCollection\obj\Debug\net5.0\TestCollection.pdb
+C:\Users\Uczen\source\repos\TestCollection\obj\Debug\net5.0\TestCollection.genruntimeconfig.cache
